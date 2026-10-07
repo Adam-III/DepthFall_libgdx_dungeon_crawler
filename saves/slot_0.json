@@ -1,0 +1,581 @@
+{
+"saveVersion": 1,
+"timestamp": 1778089361518,
+"playTimeSeconds": 30015.527,
+"saveName": "Floor 45",
+"permanentGold": 2462714,
+"knowledgeOrbs": 114,
+"keyCount": 0,
+"floorReached": 45,
+"dungeonDifficulty": 1,
+"maxUnitsLevel": 3,
+"startFloorLevel": 9,
+"criticalHitChanceLevel": 17,
+"criticalMultiplierLevel": 17,
+"goldMultiplierLevel": 41,
+"orbMultiplierLevel": 37,
+"orbDropChanceLevel": 11,
+"healAbilityLevel": 1,
+"stunAbilityLevel": 1,
+"multishotAbilityLevel": 1,
+"unlockedHeroes": [
+	"Swordsman",
+	"Archer",
+	"Knight",
+	"Healer",
+	"Tank"
+],
+"inventory": [],
+"shopStock": [
+	{
+		"name": "Heavy Gold Shield",
+		"level": 2
+	},
+	{
+		"name": "Light Gold Shield",
+		"level": 4
+	},
+	{
+		"name": "Gold Bow",
+		"level": 6
+	},
+	{
+		"name": "Light Gold Shield",
+		"level": 5
+	},
+	{
+		"name": "Gold Staff",
+		"level": 4
+	},
+	{
+		"name": "Gold Armor",
+		"level": 6
+	},
+	{
+		"name": "Gold Armor",
+		"level": 6
+	},
+	{
+		"name": "Light Gold Shield",
+		"level": 6
+	},
+	{
+		"name": "Light Gold Shield",
+		"level": 4
+	},
+	{
+		"name": "Gold Armor",
+		"level": 4
+	},
+	{
+		"name": "Light Gold Shield",
+		"level": 4
+	},
+	{
+		"name": "Heavy Gold Shield",
+		"level": 1
+	},
+	{
+		"name": "Gold Sword",
+		"level": 5
+	},
+	{
+		"name": "Gold Armor",
+		"level": 6
+	},
+	{
+		"name": "Light Gold Shield",
+		"level": 6
+	},
+	{
+		"name": "Gold Staff",
+		"level": 5
+	},
+	{
+		"name": "Gold Bow",
+		"level": 6
+	},
+	{
+		"name": "Heavy Gold Shield",
+		"level": 3
+	},
+	{
+		"name": "Light Gold Shield",
+		"level": 5
+	},
+	{
+		"name": "Heavy Gold Shield",
+		"level": 2
+	},
+	{
+		"name": "Gold Bow",
+		"level": 5
+	},
+	{
+		"name": "Gold Bow",
+		"level": 6
+	},
+	{
+		"name": "Gold Sword",
+		"level": 4
+	},
+	{
+		"name": "Light Gold Shield",
+		"level": 5
+	},
+	{
+		"name": "Gold Armor",
+		"level": 4
+	},
+	{
+		"name": "Heavy Gold Shield",
+		"level": 2
+	},
+	{
+		"name": "Gold Sword",
+		"level": 6
+	},
+	{
+		"name": "Light Gold Shield",
+		"level": 6
+	},
+	{
+		"name": "Heavy Gold Shield",
+		"level": 2
+	},
+	{
+		"name": "Light Gold Shield",
+		"level": 5
+	},
+	{
+		"name": "Gold Staff",
+		"level": 4
+	},
+	{
+		"name": "Heavy Gold Shield",
+		"level": 2
+	},
+	{
+		"name": "Gold Armor",
+		"level": 6
+	},
+	{
+		"name": "Gold Bow",
+		"level": 4
+	},
+	{
+		"name": "Light Gold Shield",
+		"level": 4
+	},
+	{
+		"name": "Gold Bow",
+		"level": 4
+	},
+	{
+		"name": "Gold Bow",
+		"level": 6
+	},
+	{
+		"name": "Light Gold Shield",
+		"level": 6
+	},
+	{
+		"name": "Heavy Gold Shield",
+		"level": 1
+	},
+	{
+		"name": "Gold Bow",
+		"level": 5
+	},
+	{
+		"name": "Heavy Gold Shield",
+		"level": 3
+	},
+	{
+		"name": "Gold Sword",
+		"level": 5
+	},
+	{
+		"name": "Gold Bow",
+		"level": 6
+	},
+	{
+		"name": "Gold Armor",
+		"level": 4
+	},
+	{
+		"name": "Light Gold Shield",
+		"level": 5
+	},
+	{
+		"name": "Gold Sword",
+		"level": 6
+	},
+	{
+		"name": "Gold Staff",
+		"level": 5
+	},
+	{
+		"name": "Gold Staff",
+		"level": 5
+	},
+	{
+		"name": "Gold Sword",
+		"level": 4
+	},
+	{
+		"name": "Light Gold Shield",
+		"level": 6
+	},
+	{
+		"name": "Gold Bow",
+		"level": 5
+	},
+	{
+		"name": "Gold Staff",
+		"level": 4
+	},
+	{
+		"name": "Gold Sword",
+		"level": 5
+	},
+	{
+		"name": "Gold Armor",
+		"level": 4
+	},
+	{
+		"name": "Light Gold Shield",
+		"level": 4
+	},
+	{
+		"name": "Light Gold Shield",
+		"level": 4
+	},
+	{
+		"name": "Light Gold Shield",
+		"level": 6
+	},
+	{
+		"name": "Gold Armor",
+		"level": 6
+	},
+	{
+		"name": "Gold Staff",
+		"level": 6
+	},
+	{
+		"name": "Heavy Gold Shield",
+		"level": 3
+	},
+	{
+		"name": "Gold Bow",
+		"level": 5
+	},
+	{
+		"name": "Gold Armor",
+		"level": 4
+	},
+	{
+		"name": "Heavy Gold Shield",
+		"level": 3
+	},
+	{
+		"name": "Gold Sword",
+		"level": 6
+	},
+	{
+		"name": "Light Gold Shield",
+		"level": 4
+	},
+	{
+		"name": "Light Gold Shield",
+		"level": 4
+	},
+	{
+		"name": "Gold Bow",
+		"level": 6
+	},
+	{
+		"name": "Gold Staff",
+		"level": 6
+	},
+	{
+		"name": "Heavy Gold Shield",
+		"level": 2
+	},
+	{
+		"name": "Light Gold Shield",
+		"level": 6
+	},
+	{
+		"name": "Gold Sword",
+		"level": 4
+	},
+	{
+		"name": "Light Gold Shield",
+		"level": 4
+	},
+	{
+		"name": "Gold Armor",
+		"level": 4
+	},
+	{
+		"name": "Gold Staff",
+		"level": 4
+	},
+	{
+		"name": "Gold Armor",
+		"level": 6
+	},
+	{
+		"name": "Gold Bow",
+		"level": 4
+	},
+	{
+		"name": "Light Gold Shield",
+		"level": 6
+	},
+	{
+		"name": "Gold Bow",
+		"level": 5
+	},
+	{
+		"name": "Light Gold Shield",
+		"level": 5
+	},
+	{
+		"name": "Gold Staff",
+		"level": 4
+	},
+	{
+		"name": "Heavy Gold Shield",
+		"level": 2
+	},
+	{
+		"name": "Gold Sword",
+		"level": 4
+	},
+	{
+		"name": "Light Gold Shield",
+		"level": 5
+	},
+	{
+		"name": "Gold Staff",
+		"level": 6
+	},
+	{
+		"name": "Gold Sword",
+		"level": 5
+	},
+	{
+		"name": "Light Gold Shield",
+		"level": 6
+	},
+	{
+		"name": "Light Gold Shield",
+		"level": 6
+	},
+	{
+		"name": "Gold Bow",
+		"level": 6
+	},
+	{
+		"name": "Gold Armor",
+		"level": 6
+	},
+	{
+		"name": "Gold Bow",
+		"level": 5
+	},
+	{
+		"name": "Gold Sword",
+		"level": 4
+	},
+	{
+		"name": "Gold Armor",
+		"level": 6
+	},
+	{
+		"name": "Gold Staff",
+		"level": 6
+	},
+	{
+		"name": "Gold Staff",
+		"level": 6
+	},
+	{
+		"name": "Heavy Gold Shield",
+		"level": 1
+	},
+	{
+		"name": "Gold Armor",
+		"level": 4
+	},
+	{
+		"name": "Light Gold Shield",
+		"level": 4
+	},
+	{
+		"name": "Gold Armor",
+		"level": 4
+	},
+	{
+		"name": "Heavy Gold Shield",
+		"level": 1
+	},
+	{
+		"name": "Gold Sword",
+		"level": 6
+	},
+	{
+		"name": "Light Gold Shield",
+		"level": 5
+	},
+	{
+		"name": "Gold Armor",
+		"level": 4
+	},
+	{
+		"name": "Gold Bow",
+		"level": 4
+	},
+	{
+		"name": "Heavy Gold Shield",
+		"level": 2
+	},
+	{
+		"name": "Gold Sword",
+		"level": 4
+	},
+	{
+		"name": "Gold Staff",
+		"level": 4
+	},
+	{
+		"name": "Heavy Gold Shield",
+		"level": 3
+	},
+	{
+		"name": "Light Gold Shield",
+		"level": 6
+	},
+	{
+		"name": "Heavy Gold Shield",
+		"level": 1
+	},
+	{
+		"name": "Gold Staff",
+		"level": 4
+	},
+	{
+		"name": "Light Gold Shield",
+		"level": 6
+	}
+],
+"meleeSlots": [
+	{
+		"heroName": "Tank",
+		"currentHP": 2110,
+		"currentMana": 40,
+		"weapon": {
+			"name": "Emerald Sword",
+			"level": 10
+		},
+		"shield": {
+			"name": "Heavy Gold Shield",
+			"level": 10
+		},
+		"armor": {
+			"name": "Emerald Armor",
+			"level": 10
+		}
+	},
+	{
+		"heroName": "Knight",
+		"currentHP": 2085,
+		"currentMana": 50,
+		"weapon": {
+			"name": "Emerald Sword",
+			"level": 10
+		},
+		"shield": {
+			"name": "Heavy Gold Shield",
+			"level": 10
+		},
+		"armor": {
+			"name": "Emerald Armor",
+			"level": 10
+		}
+	},
+	{
+		"heroName": "Knight",
+		"currentHP": 1485,
+		"currentMana": 50,
+		"weapon": {
+			"name": "Gold Sword",
+			"level": 10
+		},
+		"shield": {
+			"name": "Heavy Gold Shield",
+			"level": 10
+		},
+		"armor": {
+			"name": "Gold Armor",
+			"level": 10
+		}
+	}
+],
+"rangedSlots": [
+	{
+		"heroName": "Healer",
+		"currentHP": 1435,
+		"currentMana": 80,
+		"weapon": {
+			"name": "Emerald Staff",
+			"level": 10
+		},
+		"shield": {
+			"name": "Heavy Gold Shield",
+			"level": 10
+		},
+		"armor": {
+			"name": "Gold Armor",
+			"level": 10
+		}
+	},
+	{
+		"heroName": "Healer",
+		"currentHP": 1435,
+		"currentMana": 80,
+		"weapon": {
+			"name": "Emerald Staff",
+			"level": 10
+		},
+		"shield": {
+			"name": "Heavy Gold Shield",
+			"level": 10
+		},
+		"armor": {
+			"name": "Gold Armor",
+			"level": 10
+		}
+	},
+	{
+		"heroName": "Archer",
+		"currentHP": 1450,
+		"currentMana": 40,
+		"weapon": {
+			"name": "Gold Bow",
+			"level": 10
+		},
+		"shield": {
+			"name": "Heavy Gold Shield",
+			"level": 10
+		},
+		"armor": {
+			"name": "Gold Armor",
+			"level": 10
+		}
+	}
+]
+}
